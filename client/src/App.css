@@ -8,19 +8,11 @@
 
 .container {
   max-width: 1000px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: auto;
 }
 
-.heading {
-  text-align:center;
-  font-family: Arial, Helvetica, sans-serif;
-  margin-top: 3rem;
-}
 
-.heading h1 {
-  font-size: 4rem;
-}
 
 /* .App {
   text-align: center;
